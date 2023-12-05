@@ -46,3 +46,7 @@ Please ensure your pull request adheres to our [contribution guidelines](CONTRIB
 This repository is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the content as long as you include the original copyright and license notice.
 
 Happy interviewing!
+
+
+## **About Me**:
+I’m a seasoned Data Scientist and founder of [TowardsMachineLearning.Org](https://towardsmachinelearning.org/). I've worked on various Machine Learning, NLP, and cutting-edge deep learning frameworks to solve numerous business problems.
