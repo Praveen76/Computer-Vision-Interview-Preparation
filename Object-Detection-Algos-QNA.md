@@ -148,7 +148,7 @@ By following these steps, RoI pooling allows for efficient and consistent featur
 # Q3. Explain Faster-RCNN architecture.
 Ans: Faster R-CNN is a popular deep learning-based object detection framework that combines convolutional neural networks (CNNs) and region proposal networks (RPNs) to identify and locate objects within an image. It's a significant improvement over earlier R-CNN and Fast R-CNN models in terms of both speed and accuracy. Here's a step-by-step explanation of how Faster R-CNN works for interview preparation:
 
-![Faster R-CNN](https://github.com/Praveen76/Computer-Vision-Interview-Preparation/blob/main/Images/Faster-RCNNDiagram.jpg)
+![Faster R-CNN](https://github.com/Praveen76/Computer-Vision-Interview-Preparation/blob/main/Images/Faster-RCNN_ArchDiag.jpg)
 
 1. **Input Image**: The process begins with an input image that you want to perform object detection on.
 
